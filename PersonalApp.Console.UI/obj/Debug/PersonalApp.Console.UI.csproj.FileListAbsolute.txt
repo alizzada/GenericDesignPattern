@@ -1,0 +1,17 @@
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.Console.UI.exe.config
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.Console.UI.exe
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.Console.UI.pdb
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\EntityFramework.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.DAL.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.Domains.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.DAL.pdb
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.DAL.dll.config
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\PersonalApp.Domains.pdb
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\EntityFramework.xml
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\obj\Debug\PersonalApp.Console.UI.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\obj\Debug\PersonalApp.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\obj\Debug\PersonalApp.Console.UI.csproj.CopyComplete
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\obj\Debug\PersonalApp.Console.UI.exe
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Console.UI\obj\Debug\PersonalApp.Console.UI.pdb

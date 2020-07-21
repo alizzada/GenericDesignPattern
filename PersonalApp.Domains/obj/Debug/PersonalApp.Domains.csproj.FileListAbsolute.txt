@@ -1,0 +1,6 @@
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Domains\bin\Debug\PersonalApp.Domains.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Domains\bin\Debug\PersonalApp.Domains.pdb
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Domains\obj\Debug\PersonalApp.Domains.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Domains\obj\Debug\PersonalApp.Domains.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Domains\obj\Debug\PersonalApp.Domains.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.Domains\obj\Debug\PersonalApp.Domains.pdb

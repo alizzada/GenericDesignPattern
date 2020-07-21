@@ -1,0 +1,16 @@
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\PersonalApp.DAL.dll.config
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\PersonalApp.DAL.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\PersonalApp.DAL.pdb
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\PersonalApp.Domains.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\PersonalApp.Domains.pdb
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\obj\Debug\PersonalApp.DAL.csprojAssemblyReference.cache
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\obj\Debug\PersonalApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\obj\Debug\PersonalApp.DAL.csproj.CopyComplete
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\obj\Debug\PersonalApp.DAL.dll
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\obj\Debug\PersonalApp.DAL.pdb
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\obj\Debug\PersonalApp.DAL.Migrations.Init.resources
+C:\Users\Ali.Alizada\source\repos\PersonalApp\PersonalApp.DAL\obj\Debug\PersonalApp.DAL.csproj.GenerateResource.cache
